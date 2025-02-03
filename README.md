@@ -22,3 +22,27 @@ Unit & E2E Tests: Expand coverage for both backend (controller, service) and fro
 Deploy: Containerize with Docker and push to AWS or Heroku. Or set up CI/CD with GitHub Actions.
 Enhanced UI: Use a design system like Material UI or Chakra UI, include filters/sorting by superpower or name.
 
+## 🤝 **Contributing**
+
+Contributions are welcome! If you'd like to contribute:
+1. Fork this repository.
+2. Create a feature branch: `git checkout -b feature-name`.
+3. Commit your changes: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin feature-name`.
+5. Open a pull request.
+
+---
+
+## 📩 **Contact**
+Sergio (eguilser)  
+[GitHub Profile](https://github.com/eguilser)  
+[LinkedIn](https://www.linkedin.com/in/sergio-egu%C3%ADluz-43482a265/)
+
+---
+
+## 📜 **License**
+
+This project is licensed under a proprietary license. Redistribution, modification, or commercial use is prohibited without explicit permission. See the [LICENSE](./LICENSE) file for more details.
+
+---
+
