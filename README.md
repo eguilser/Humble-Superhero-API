@@ -76,7 +76,7 @@ Contributions are welcome! If you'd like to contribute:
 
 ## 👤 **Author**
 - **Name:** Sergio Eguíluz  
-- **Email:** [sergio.dev@gmail.com](mailto:sergioeguiluz614@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/sergio-egu%C3%ADluz-43482a265/) 
 - **GitHub:** [GitHub Profile](https://github.com/your-profile)
 
 ---
