@@ -45,6 +45,17 @@ The React frontend presents a simple UI that allows users to:
 
 ---
 
+## 📸 **Screenshots**
+
+### **Backend:**
+![List and Form](https://github.com/user-attachments/assets/d304b884-1e5b-40ac-9621-aaa18cbd6df0)
+
+
+### **Frontend:**
+![List and Form](https://github.com/user-attachments/assets/0e09408e-6156-4e94-be7a-d3fe03d2aefb)
+
+---
+
 ## If I Had More Time… ⏳
 Database Integration: Instead of in-memory, connect to MongoDB or PostgreSQL so data persists across restarts.
 Authentication: Add JWT-based authentication for protected routes or an admin panel.
