@@ -9,9 +9,39 @@
 1. **Backend (NestJS)** – Creates the API, stores data in-memory, and handles endpoints.
 2. **Frontend (React)** – Provides a user interface to add superheroes and see them listed in real time.
 
-The project demonstrates:
-- **POST /superheroes**: Add a superhero (validates `humilityScore` is between 1 and 10).
-- **GET /superheroes**: Fetch and sort the list by highest humility score first.
+## 📝 **Description**
+
+The **Humble Superhero API** combines a **NestJS** backend with a **React + TypeScript** frontend to manage a list of superheroes, each having a:
+- **Name** (string)
+- **Superpower** (string)
+- **Humility Score** (number, 1–10)
+
+The NestJS backend stores the superheroes in an **in-memory array**, providing two key endpoints:
+- **POST** `/superheroes` for adding a new superhero (validates humility score range).
+- **GET** `/superheroes` for fetching heroes, sorted by descending humility.
+
+The React frontend presents a simple UI that allows users to:
+1. **Add** a superhero.
+2. **View** the list in real-time, automatically ordered by highest humility.
+
+---
+
+## 🛠️ **Technologies Used**
+
+### **Backend:**
+- **NestJS** (TypeScript)
+- **Class-Validator** (for validating humility score range)
+- **In-memory** data store
+
+### **Frontend:**
+- **React** (TypeScript)
+- **Axios** (for HTTP requests)
+- **Bootstrap** (optional UI styling)
+
+### **Tools:**
+- **Node.js** / npm
+- **Visual Studio Code** (or any IDE)
+- **Git** & GitHub
 
 ---
 
@@ -33,10 +63,10 @@ Contributions are welcome! If you'd like to contribute:
 
 ---
 
-## 📩 **Contact**
-Sergio (eguilser)  
-[GitHub Profile](https://github.com/eguilser)  
-[LinkedIn](https://www.linkedin.com/in/sergio-egu%C3%ADluz-43482a265/)
+## 👤 **Author**
+- **Name:** Sergio Eguíluz  
+- **Email:** [sergio.dev@gmail.com](mailto:sergioeguiluz614@gmail.com)  
+- **GitHub:** [GitHub Profile](https://github.com/your-profile)
 
 ---
 
